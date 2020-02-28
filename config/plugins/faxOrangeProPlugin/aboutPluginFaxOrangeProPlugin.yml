@@ -1,0 +1,8 @@
+version: v1.0.0
+nom: 'Fax Orange Pro'
+auteurs:
+  'Bertrand Boutillier': 'https://www.medshake.net/membre/1/'
+licence: 'GPL v3'
+description: 'Plugin pour l'utilisation d'Orange Pro pour envoyer des fax par email'
+documentation: 'https://www.logiciel-cabinet-medical.fr/'
+sources: ''
